@@ -1,0 +1,7 @@
+$link-color: orange;
+
+@charset "utf-8";
+$masthead-link-color: orange
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
