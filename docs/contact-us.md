@@ -1,7 +1,8 @@
 ---
-id: 3315
 title: 'Contact Us'
 layout: home1
+permalink: /contact-us/
+
 ---
 
 # Let us<font color="#fe9178"> guide you</font> towards a circular, sustainable and profitable business…

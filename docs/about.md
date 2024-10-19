@@ -1,5 +1,4 @@
 ---
-id: 3296
 title: About
 layout: home
 permalink: /about/
