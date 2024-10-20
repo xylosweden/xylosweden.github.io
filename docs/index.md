@@ -3,6 +3,8 @@ title: Sustainability Compliance made easier
 layout: home1
 ---
 
+# <font color="#fe9178"> Sustainability Compliance </font> made easier
+
 We are here to guide your business not only to survive but thrive in the new green economy.
 
 ![](/assets/images/xylo-hero.jpg)
@@ -19,6 +21,8 @@ We offer tailor-made sustainability strategies that align with your business uni
 
 In a world demanding responsible action. Circularity, LCA, EPDs, certifications, and transparent reporting are not just buzzwords – they’re the keys to a sustainable future. By embracing these principles, you’re not only fostering environmental stewardship but also driving innovation and securing long-term success.
 
+[Learn more](/contact-us/){: .btn .btn--primary .btn--large}
+
 ## Our services
 
 ### Sustainability as a crucial strategy for business success
@@ -27,9 +31,7 @@ Is your company experiencing the advantages that come with incorporating sustain
 
 At Xylo Sweden, we firmly believe that sustainability is not only a moral obligation but also a strategic business imperative. Companies that embrace sustainability are better equipped to meet the challenges of the future, build stronger relationships with their stakeholders, and create value for their shareholders.
 
- [  
- All Services  
- ](/services/)
+ [All Services](/services/){: .btn .btn--primary .btn--large}
 
 ## Why XYLO
 

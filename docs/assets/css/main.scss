@@ -1,7 +1,31 @@
-$link-color: orange;
-
 @charset "utf-8";
 $masthead-link-color: orange
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.page__footer-info {
+  @include clearfix;
+  float: left;
+  margin-inline: 0;
+  width: 30%;
+  margin-top: 3em;
+  color: $muted-text-color;
+  -webkit-animation: $intro-transition;
+  animation: $intro-transition;
+  -webkit-animation-delay: 0.45s;
+  animation-delay: 0.45s;
+  background-color: $footer-background-color;
+  .column {
+    float: left;
+    width: 33.33%;
+  }
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+}
+
 

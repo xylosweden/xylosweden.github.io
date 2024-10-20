@@ -15,5 +15,4 @@ permalink: /contact-us/
 
 3\. Let´s execute that plan together!
 
-
-[Contact us](mailto:info@xylosweden.se)
+[Contact us](mailto:info@xylosweden.se){: .btn .btn--primary .btn--large}
