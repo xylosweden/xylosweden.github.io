@@ -1,6 +1,15 @@
 ---
 title: Sustainability Compliance made easier
 layout: home1
+feature_row:
+  - title: "Customer satisfaction"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - title: "Placeholder 2"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
 ---
 
 # <font color="#fe9178"> Sustainability Compliance </font> made easier
@@ -29,11 +38,14 @@ In a world demanding responsible action. Circularity, LCA, EPDs, certifications,
 
 Is your company experiencing the advantages that come with incorporating sustainability into its practices?
 
-At Xylo Sweden, we firmly believe that sustainability is not only a moral obligation but also a strategic business imperative. Companies that embrace sustainability are better equipped to meet the challenges of the future, build stronger relationships with their stakeholders, and create value for their shareholders.
+At Xylo Sweden, we firmly believe that sustainability is not only a moral obligattion but also a strategic business imperative. Companies that embrace sustainability are better equipped to meet the challenges of the future, build stronger relationships with their stakeholders, and create value for their shareholders.
 
  [All Services](/services/){: .btn .btn--primary .btn--large}
 
 ## Why XYLO
+
+{% include feature_row %}
+
 
 ###  Customer satisfaction  
 
