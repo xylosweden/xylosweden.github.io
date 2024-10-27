@@ -29,10 +29,36 @@ feature_row2:
     excerpt: "Environmental product declarations (EPDs) are Type III ecolabels based on the LCA methodology with a usual validity of 5 years. They declare the environmental impacts associated with the product’s lifecycle using a standardised, comparable methodology."
   - title: "Circularity training"
     excerpt: "We work hand-in-hand with you to build a circular culture in your organization, empowering your employees through tailored training and education. Together, we develop circular strategies that reflect your values and business goals."
+
+feature_row3:
+  - image_path: /assets/images/lca.jpg
+    alt: "People in an office"
+    title: "<h1>LCA and EPD for Products and Materials</h1>"
+    excerpt: '<p>Are you developing a new product and need a <strong>Life Cycle Assessment</strong> (LCA) and <strong>Environmental Product Declaration</strong> (EPD)?</p>
+      <p>We conduct LCA for construction projects and materials using <a href="https://www.boverket.se/sv/byggande/hallbart-byggande-och-forvaltning/livscykelanalys/miljodata-och-lca-verktyg/verktyg-for-lca/">Boverket</a> approved software. Our LCA helps you understand the environmental impact of your building design and identify opportunities for improvement.</p>
+      <p>An EPD describes the product’s environmental impact in a transparent and comparable manner and is based on the LCA. Depending on what the product is, product category rules (PCR) define what needs to be included in the report.</p>
+      <p>For example, an EPD for construction products needs to include 19 different environmental impact categories across the product’s manufacturing and end of life stages, which helps you identify potential environmental issues along the value chain to implement more circular designs for improved environmental performance.</p>'
+    url: "https://forms.office.com/Pages/ResponsePage.aspx?id=OMsD_2UbPEKOQhJn4ZyvwkEMtSRIuMRNmBidQUS90glUN1JBQzZKRFNPTjJINDY4RTBBV1pVNEc0Uy4u"
+    btn_label: "Ask for an offer"
+    btn_class: "btn--warning"
+
+feature_row4:
+  - image_path: /assets/images/building.jpg
+    alt: "Building"
+    title: "<h1>Environmental Certification of Buildings</h1>"
+    excerpt: '<div align="left"><p>We have extensive experience in the construction industry, helping clients reduce waste and achieve environmental certifications such as the Nordic ecolabel Svanen and EU Taxonomy.</p>
+      <p>Our expertise extends to country-specific systems such as the Nordic Svanen, ensuring your project meets the highest standards of environmental sustainability.</p>
+      <p><strong>We offer:</strong></p>
+      <ul>
+      <li>Climate impact calculation for new buildings</li>
+      <li><a href="https://www.svanen.se">The Nordic Swan Ecolabel (generation 3 and 4)</a></li>
+      <li>EU-taxonomy alignment</li>
+      <li>Trainings in product list and logbook of buildings</li>
+      </ul></div>'
 ---
 
-Sustainability is a journey of continuous improvement. We guide you one step at a time.
-
+<p class="small-text">Sustainability is a journey of continuous improvement. We guide you one step at a time.</p>
+<br>
 
 
 {% include feature_row  type="left" %}
@@ -49,27 +75,7 @@ We offer our clients LCA, EPD, and in-depth education in those tools. In additio
 
 {% include feature_row id="feature_row2"  %}
 
-# LCA and EPD for Products and Materials
+{% include feature_row id="feature_row3" type="left" %}
 
-Are you developing a new product and need a **Life Cycle Assessment** (LCA) and **Environmental Product Declaration** (EPD)?
+{% include feature_row id="feature_row4" type="right" %}
 
-We conduct LCA for construction projects and materials using [Boverket](https://www.boverket.se/sv/byggande/hallbart-byggande-och-forvaltning/livscykelanalys/miljodata-och-lca-verktyg/verktyg-for-lca/)– approved software. Our LCA helps you understand the environmental impact of your building design and identify opportunities for improvement.
-
-An EPD describes the product’s environmental impact in a transparent and comparable manner and is based on the LCA. Depending on what the product is, product category rules (PCR) define what needs to be included in the report.
-
-For example, an EPD for construction products needs to include 19 different environmental impact categories across the product’s manufacturing and end of life stages, which helps you identify potential environmental issues along the value chain to implement more circular designs for improved environmental performance.
-
-[Ask for an offer](https://forms.office.com/Pages/ResponsePage.aspx?id=OMsD_2UbPEKOQhJn4ZyvwkEMtSRIuMRNmBidQUS90glUN1JBQzZKRFNPTjJINDY4RTBBV1pVNEc0Uy4u){: .btn .btn--warning .btn--large}
-
-# Environmental Certification of Buildings
-
-We have extensive experience in the construction industry, helping clients reduce waste and achieve environmental certifications such as the Nordic ecolabel Svanen and EU Taxonomy.
-
-Our expertise extends to country-specific systems such as the Nordic Svanen, ensuring your project meets the highest standards of environmental sustainability.
-
-**We offer:**
-
-- Climate impact calculation for new buildings
-- [The Nordic Swan Ecolabel (generation 3 and 4)](https://www.svanen.se/)
-- EU-taxonomy alignment
-- Trainings in product list and logbook of buildings

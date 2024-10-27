@@ -46,9 +46,7 @@ In a world demanding responsible action. Circularity, LCA, EPDs, certifications,
 
 [Learn more](/contact-us/){: .btn .btn--warning .btn--large}
 
-
 {% include feature_row id="feature_row2" type="right" %}
-
 
 ## Why XYLO
 {: .text-center}
@@ -63,3 +61,4 @@ In a world demanding responsible action. Circularity, LCA, EPDs, certifications,
 
 \- Dennis Gabor, Nobel Prize winner -
 {: .text-center}
+

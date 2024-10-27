@@ -4,6 +4,20 @@ layout: home1
 permalink: /about/
 excerpt: "We are not just consultants – we are collaborators, providing the knowledge, resources, and guidance you need to effect real change."
 image_header: "/assets/images/desert-walk.jpg"
+feature_row:
+  - title: "Customer focus" 
+    excerpt: "Creating a clear plan with an expected time frame of service delivery and transparent expenditure breakdown."
+  - title: "Excellence"
+    excerpt: "Continuously seeking improvement and innovation while delivering high-quality outcomes."
+  - title: "Collaboration"
+    excerpt: "Fostering a culture of open communication and close collaboration for collective success."
+  - title: "Passion"
+    excerpt: "Each client is unique and we embark on each project with a resolute objective to achieve long-term sustainability."
+  - title: "Continuous learning"
+    excerpt: "We proactively seek knowledge and promote knowledge sharing. We stay up-to-date with the latest sustainability practices."
+  - title: "Sustainability"
+    excerpt: "We strive to minimise negative impact while complying with the latest sustainable standards.
+"
 ---
 
 
@@ -21,31 +35,10 @@ We know the future can be very bright and we are firm believers of Dennis Gabor�
 
 Let’s invent a more sustainable future together!
 
-##### what makes us different
+#### what makes us different
+{: .text-center}
+# The codes we live by
+{: .text-center}
 
-## The codes we live by
-
-###  Customer focus  
- 
-Creating a clear plan with an expected time frame of service delivery and transparent expenditure breakdown.
-
-###  Excellence  
- 
-Continuously seeking improvement and innovation while delivering high-quality outcomes.
-
-###  Collaboration  
- 
-Fostering a culture of open communication and close collaboration for collective success.
-
-###  Passion  
- 
-Each client is unique and we embark on each project with a resolute objective to achieve long-term sustainability.
-
-###  Continuous learning  
-
-We proactively seek knowledge and promote knowledge sharing. We stay up-to-date with the latest sustainability practices.
-
-###  Sustainability  
- 
-We strive to minimise negative impact while complying with the latest sustainable standards.
+{% include feature_row %}
 

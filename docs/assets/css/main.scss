@@ -13,46 +13,6 @@ $right-sidebar-width-wide: 200px !default;
 $global-font-family: 'Inter', sans-serif !default;
 $header-font-family: 'Inter', sans-serif !default;
 
-.top-title{
-  font-size : 2.3em;
-  font-weight: 500;
-  letter-spacing: -2.3px;
-}
-
-.sub-title{
-  font-size : 0.9em;
-  font-weight: 400;
-  letter-spacing: -0.8px;
-}
-
-.grid {
-  display: flex;
-  align-items: flex-end;
-}
-.col {
-  flex: 1;
-  margin-right: 20px;
-  margin-left: 20px;
-  text-align: left;
-}
-.cole-1-2:last-child {
-  margin-right: 20px;
-  margin-left: 20px;
-  text-align: right;
-}
-.left {
-  width: 55%;
-}
-.right {
-  width: 45%;
-}
-.image-hero {
-  height: 400px; 
-  object-fit: cover;
-  object-position: 50% 50%;
-  margin-top: 0px;
-  margin-bottom: 0px;
-}
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
@@ -74,7 +34,95 @@ h2 {
   margin-top: 0px;
 }
 
+.small-text {
+  font-weight: 500;
+  font-size : 0.8em;
+}
+
+.top-title{
+  font-size : 2.2em;
+  font-weight: 500;
+  letter-spacing: -2.3px;
+}
+
+.sub-title{
+  font-size : 0.9em;
+  font-weight: 400;
+  letter-spacing: -0.8px;
+}
+
+.image-hero {
+  height: 200px; 
+  object-fit: cover;
+  object-position: 50% 50%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  @include breakpoint($small) {
+    height: 200px; 
+  }
+  @include breakpoint($medium) {
+    height: 300px; 
+  }
+  @include breakpoint($large) {
+    height: 400px; 
+  }
+}
+
+.consultation{
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin-top: 50px;
+  padding: 50px;
+  width: 100%;
+}
+
 img[src*="#thumbnail"] {
   width:50px;
   height:50px;
+}
+
+
+.header__wrapper {
+  @include clearfix();
+  margin-bottom: 0em;
+  bottom: 0;
+}
+
+.header__item {
+  position: relative;
+  margin-bottom: 0em;
+  font-size: 1.125em;
+  bottom: 0;
+  align-items: end;
+
+  @include breakpoint($small) {
+    float: inline-start;
+    margin-bottom: 0;
+    width: span(4 of 8);
+
+    &:nth-child(2n + 1) {
+      clear: both;
+      margin-inline-start: 0;
+      width: 55%;
+      bottom : 0;
+    }
+
+    &:nth-child(2n + 2) {
+      clear: none;
+      margin-inline-start: gutter(of 8);
+      width: 40%;
+      bottom : 0;
+    }
+  }
+
+  .archive__item-body {
+    padding-inline: gutter(1 of 8);
+  }
+
+  a.btn::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+  }
 }
