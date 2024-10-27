@@ -73,7 +73,7 @@ h2 {
   height: 200px;
   padding: 30px;
   @include breakpoint($small) {
-    height: 200px; 
+    height: 250px; 
   }
   @include breakpoint($medium) {
     min-height: 350px; 
