@@ -1,14 +1,11 @@
 ---
-title: About
+title: Passion for <font color="#fe9178">Sustainability</font>
 layout: home1
 permalink: /about/
+excerpt: "We are not just consultants – we are collaborators, providing the knowledge, resources, and guidance you need to effect real change."
+image_header: "/assets/images/desert-walk.jpg"
 ---
 
-# Passion for <font color="#fe9178">Sustainability</font>
-
-We are not just consultants – we are collaborators, providing the knowledge, resources, and guidance you need to effect real change.
-
- ![](/assets/images/desert-walk.jpg)
 
 # Our Customers
 

@@ -38,6 +38,8 @@ repository: "xylosweden/xylosweden.github.io"
   #teaser: /assets/images/500x300.png
 logo: "/assets/images/xylo-logo.png"
 masthead_title: " "
+
+business: "Lövgatan 49, 16932 Solna, Org.no 559399-2604"
 search: true
 defaults:
   # _posts
@@ -52,12 +54,19 @@ defaults:
 
 footer:
   links:
+    - label: "Home"
+      url: /
+    - label: "Services"
+      url: /services/
+    - label: "About"
+      url: /about/
+    - label: "Our blog"
+      url: /blog/
+    - label: "Contact us"
+      url: /contact-us/
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/company/xylo-sweden"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/xylorevolution"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

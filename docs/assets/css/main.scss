@@ -1,32 +1,80 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
 @charset "utf-8";
-$link-color: "#fe9178";
+
+$warning-color: #fe9178 !default;
+$right-sidebar-width-narrow: 50px !default;
+$right-sidebar-width: 100px !default;
+$right-sidebar-width-wide: 200px !default;
+
+$global-font-family: 'Inter', sans-serif !default;
+$header-font-family: 'Inter', sans-serif !default;
+
+.top-title{
+  font-size : 2.3em;
+  font-weight: 500;
+  letter-spacing: -2.3px;
+}
+
+.sub-title{
+  font-size : 0.9em;
+  font-weight: 400;
+  letter-spacing: -0.8px;
+}
+
+.grid {
+  display: flex;
+  align-items: flex-end;
+}
+.col {
+  flex: 1;
+  margin-right: 20px;
+  margin-left: 20px;
+  text-align: left;
+}
+.cole-1-2:last-child {
+  margin-right: 20px;
+  margin-left: 20px;
+  text-align: right;
+}
+.left {
+  width: 55%;
+}
+.right {
+  width: 45%;
+}
+.image-hero {
+  height: 400px; 
+  object-fit: cover;
+  object-position: 50% 50%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.page__footer-info {
-  @include clearfix;
-  float: left;
-  margin-inline: 0;
-  width: 30%;
-  margin-top: 3em;
-  color: $muted-text-color;
-  -webkit-animation: $intro-transition;
-  animation: $intro-transition;
-  -webkit-animation-delay: 0.45s;
-  animation-delay: 0.45s;
-  background-color: $footer-background-color;
-  .column {
-    float: left;
-    width: 33.33%;
-  }
+h4 {
+  text-transform: uppercase;
+  letter-spacing: 7px;
+  font-weight: 700;
+  line-height: 24px;
+  font-size: 0.8em;
+  margin-top: 0px;
+  margin-bottom: 5px;
 
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
 }
 
+h2 {
+  font-weight: 500;
+  font-size : 1.9em;
+  margin-top: 0px;
+}
 
+img[src*="#thumbnail"] {
+  width:50px;
+  height:50px;
+}

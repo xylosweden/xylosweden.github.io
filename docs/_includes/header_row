@@ -1,0 +1,23 @@
+<div class="grid">
+  <div class="col-1-2 left">
+     <div class="content">
+        {% if page.title %}
+          <h1 class="top-title">{{ page.title }}</h1>
+        {% endif %}
+     </div>
+  </div>
+  <div class="col-1-2 right">
+     <div class="content">
+        {% if page.excerpt %}
+          <h1 class="sub-title">{{ page.excerpt | markdownify }}</h1>
+        {% endif %}
+     </div>
+  </div>
+</div>
+{% if page.image_header %}
+<div>
+  <figure class="{{ include.class }}">
+    <img src="{{ page.image_header }}" class="image-hero"/>
+  </figure>
+</div>
+{% endif %}
