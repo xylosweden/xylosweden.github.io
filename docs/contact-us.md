@@ -11,4 +11,4 @@ permalink: /contact-us/
 2. Allow us to create a customised plan
 3. Let´s execute that plan together!
 
-[Contact us](mailto:info@xylosweden.se){: .btn .btn--primary .btn--large}
+[Contact us](mailto:info@xylosweden.se){: .btn .btn--warning}

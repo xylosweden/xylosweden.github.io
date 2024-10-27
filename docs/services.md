@@ -24,10 +24,13 @@ feature_row:
 
 feature_row2:
   - title: "Life Cycle Assessment (LCA)" 
+    icon: "fa fa-sync-alt"
     excerpt: "Life cycle assessment is an established methodology for quantification of environmental impacts of products and services across their life cycles. It can be used for identification of environmental hotspots, comparison of different scenarios at design and product stages."
   - title: "Environmental Product Declaration (EPD)"
+    icon: "far fa-file-alt"
     excerpt: "Environmental product declarations (EPDs) are Type III ecolabels based on the LCA methodology with a usual validity of 5 years. They declare the environmental impacts associated with the product’s lifecycle using a standardised, comparable methodology."
   - title: "Circularity training"
+    icon: "fa-solid fa-graduation-cap"
     excerpt: "We work hand-in-hand with you to build a circular culture in your organization, empowering your employees through tailored training and education. Together, we develop circular strategies that reflect your values and business goals."
 
 feature_row3:
@@ -73,7 +76,7 @@ We offer our clients LCA, EPD, and in-depth education in those tools. In additio
 
 **Supporting you with:**
 
-{% include feature_row id="feature_row2"  %}
+{% include feature_row_black id="feature_row2"  %}
 
 {% include feature_row id="feature_row3" type="left" %}
 
