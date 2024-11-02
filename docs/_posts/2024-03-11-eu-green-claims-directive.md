@@ -9,9 +9,6 @@ categories:
     - Uncategorized
 ---
 
-Previous  
- Next
-
 Are your products marketed as ‘eco-friendly,’ ‘natural,’ ‘recycled,’ ‘biodegradable’ and so on? 🐅♻️🗑️🌿
 
 **Can you substantiate these labels?**

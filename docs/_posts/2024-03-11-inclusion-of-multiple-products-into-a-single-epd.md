@@ -9,9 +9,6 @@ categories:
     - 'LCA and EPD'
 ---
 
-Previous  
- Next
-
 Did you know ⁉️
 
 **Several products can be covered by a single EPD!**

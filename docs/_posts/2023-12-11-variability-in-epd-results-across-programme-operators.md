@@ -8,7 +8,7 @@ categories:
     - LCA and EPD
 ---
 
-💭 Recently, an interesting article on variation and comparability of environmental product declarations (#EPD) was published in the International Journal of Life Cycle Assessment by Konradsen et al., 2023.
+💭 Recently, an interesting article on variation and comparability of environmental product declarations [EPD](/are-you-developing-a-new-product-and-need-an-environmental-product-declaration-epd/) was published in the International Journal of Life Cycle Assessment by Konradsen et al., 2023.
 
 In the article, the authors analysed how methodological choices based on guidelines such as the General Programme Instructions and Product Category Rules (which are independently issued by the programme operators) can result in variable results for environmental impact categories considered.
 
@@ -28,8 +28,7 @@ Critical insights from the academia are needed to guide the industry in the righ
 
 We will keep educating ourselves (and you) and contribute to developments in the EPD system, striving to be your guides so you can thrive in the new green economy. 🍀
 
-[‘Same product, different score: how methodological differences affect EPD results’ ](https://link.springer.com/article/10.1007/s11367-023-02246-x)
-
-[Our previous post on comparability of LCA results](/seminar-for-stockholm-material-hub/)
+- [Same product, different score: how methodological differences affect EPD results](https://link.springer.com/article/10.1007/s11367-023-02246-x)
+- [Our previous post on comparability of LCA results](/seminar-for-stockholm-material-hub/)
 
  ![](/assets/images/epd-comanies.jpg)

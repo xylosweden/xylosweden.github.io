@@ -12,7 +12,7 @@ categories:
 
 In February 2024, ISO issued a climate-related amendment to 31 existing management system standards. 🔎
 
-![](/assets/images/iso14001-300x240.jpg){: .text-center}
+![](/assets/images/iso14001-300x240.jpg){: .align-center}
 
 This includes popular management systems such as [ISO 14001](https://www.iso.org/standard/88209.html) (environmental management system) and [ISO 9001](https://www.iso.org/standard/88431.html) (quality management system) and many others. 📚
 

@@ -14,7 +14,7 @@ categories:
 
 Remember all those standards listed on environmental product declarations **EPD**?
 
- Let’s have a look at the most important ones!
+Let’s have a look at the most important ones!
 
 ##  🌼 ISO 14040 and ISO 14044 
 
@@ -39,3 +39,5 @@ The A2 refers to an update issued in 2019, which among other things expanded the
 This standard is largely aligned with ISO 21930, however, some small differences exist, thus for compliance with both standards, certain conditions must be met (for example, when making an EPD of multiple products, the ISO imposes stricter requirements on the permissible variability of environmental impacts).
 
 Despite being a European standard, many non-EU manufacturers are choosing to use it for their EPDs as it is the most comprehensive set of rules currently available within the EPD system.
+
+![Hierarchy of EPD standards](/assets/images/epd-standards6.png){: .align-center}
