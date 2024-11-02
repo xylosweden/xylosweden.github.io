@@ -6,11 +6,14 @@ excerpt: "We are here to guide your business not only to survive but thrive in t
 image_header: "/assets/images/xylo-hero.jpg"
 
 feature_row:
-  - title: "Customer satisfaction" 
+  - title: "Customer satisfaction"
+    svg_icon: 'assets/images/paper-ok.svg'
     excerpt: " We are uniquely positioned to help businesses achieve their sustainability goals. With our extensive expertise and knowledge, we can help you effectively report on your sustainability performance, manage risks, and create value for your stakeholders."
   - title: "Circularity experts"
+    svg_icon: 'assets/images/circular.svg'
     excerpt: "We specialise in providing innovative solutions to help businesses transition to a circular economy. Our team of experts works closely with you to understand your unique challenges and tailor solutions that help you achieve your sustainability goals."
   - title: "Hands-on experience"
+    svg_icon: 'assets/images/security.svg'
     excerpt: "We create custom solutions that deliver measurable results. Our services are tailored to meet the unique needs of each client, and we work closely with them to develop sustainable strategies that align with their values and business objectives."
 
 feature_row2:
@@ -51,7 +54,7 @@ In a world demanding responsible action. Circularity, LCA, EPDs, certifications,
 ## Why XYLO
 {: .text-center}
 
-{% include feature_row %}
+{% include feature_row1 type-box="black-box" %}
 
 {% include feature_row id="feature_row3" type="left" %}
 

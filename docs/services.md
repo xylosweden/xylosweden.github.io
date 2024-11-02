@@ -76,7 +76,7 @@ We offer our clients LCA, EPD, and in-depth education in those tools. In additio
 
 **Supporting you with:**
 
-{% include feature_row_black id="feature_row2"  %}
+{% include feature_row1 id="feature_row2" type-box="black-box" %}
 
 {% include feature_row id="feature_row3" type="left" %}
 

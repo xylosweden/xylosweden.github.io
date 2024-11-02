@@ -67,7 +67,7 @@ h2 {
     height: 400px; 
   }
 }
-.boxes{
+.black-box{
   background-color: black;
   color: white;
   min-height: 250px;
@@ -82,9 +82,36 @@ h2 {
   min-height: 400px; 
   }
 }
-.boxes:hover{
+.black-box:hover{
   background-color: #fe9178;
 }
+.white-box{
+  background-color: lightgray;
+  color: black;
+  min-height: 100px;
+  padding: 30px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  @include breakpoint($small) {
+    height: 100px; 
+  }
+  @include breakpoint($medium) {
+    min-height: 150px; 
+  }
+  @include breakpoint($large) {
+  min-height: 200px; 
+  }
+}
+
+.svg-icon-box{
+  height: 40px;
+  width: 40px;
+  object-fit: contain;
+  text-align: left;
+  bottom: 5px;
+  font-size: 32px;
+}
+
 .consultation{
   background-color: black;
   color: white;

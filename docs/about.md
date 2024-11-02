@@ -5,17 +5,23 @@ permalink: /about/
 excerpt: "We are not just consultants – we are collaborators, providing the knowledge, resources, and guidance you need to effect real change."
 image_header: "/assets/images/desert-walk.jpg"
 feature_row:
-  - title: "Customer focus" 
+  - title: "Customer focus"
+    svg_icon: '/assets/images/customer.svg'
     excerpt: "Creating a clear plan with an expected time frame of service delivery and transparent expenditure breakdown."
   - title: "Excellence"
+    svg_icon: '/assets/images/xylo-logo.svg'
     excerpt: "Continuously seeking improvement and innovation while delivering high-quality outcomes."
   - title: "Collaboration"
+    svg_icon: '/assets/images/collaboration.svg'
     excerpt: "Fostering a culture of open communication and close collaboration for collective success."
   - title: "Passion"
+    svg_icon: '/assets/images/passion.svg'
     excerpt: "Each client is unique and we embark on each project with a resolute objective to achieve long-term sustainability."
   - title: "Continuous learning"
+    svg_icon: '/assets/images/learning.svg'
     excerpt: "We proactively seek knowledge and promote knowledge sharing. We stay up-to-date with the latest sustainability practices."
   - title: "Sustainability"
+    svg_icon: '/assets/images/sustainability.svg'
     excerpt: "We strive to minimise negative impact while complying with the latest sustainable standards.
 "
 ---
@@ -40,5 +46,5 @@ Let’s invent a more sustainable future together!
 # The codes we live by
 {: .text-center}
 
-{% include feature_row %}
+{% include feature_row1 type-box="white-box"%}
 
