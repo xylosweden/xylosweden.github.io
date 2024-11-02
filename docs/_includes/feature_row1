@@ -30,7 +30,7 @@
             </div>
           {% endif %}
           {% if f.title %}
-            <h2 class="archive__item-title">{{ f.title }}</h2>
+            <h2 class="archive__item-title"><strong>{{ f.title }}</strong></h2>
           {% endif %}
 
           {% if f.excerpt %}

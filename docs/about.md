@@ -43,7 +43,7 @@ Let’s invent a more sustainable future together!
 
 #### what makes us different
 {: .text-center}
-# The codes we live by
+## The codes we live by
 {: .text-center}
 
 {% include feature_row1 type-box="white-box"%}
