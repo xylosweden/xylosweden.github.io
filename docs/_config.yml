@@ -35,6 +35,8 @@ plugins:
 repository: "xylosweden/xylosweden.github.io"
   #teaser: /assets/images/500x300.png
 logo: "/assets/images/xylo-logo.png"
+og_image: "/assets/images/favicon-96x96.png"
+
 masthead_title: " "
 
 business: "Lövgatan 49, 16932 Solna, Org.no 559399-2604"
