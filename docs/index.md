@@ -20,7 +20,7 @@ feature_row2:
   - image_path: /assets/images/people-talking1.jpg
     alt: "People in a meeting"
     title: "<h4>Our services</h4><h1>Sustainability as a crucial strategy for business success</h1>"
-    excerpt: '<p>Is your company experiencing the advantages that come with incorporating sustainability into its practices? </p><p>>At Xylo Sweden, we firmly believe that sustainability is not only a moral obligattion but also a strategic business imperative. Companies that embrace sustainability are better equipped to meet the challenges of the future, build stronger relationships with their stakeholders, and create value for their shareholders.</p>'
+    excerpt: '<p>Is your company experiencing the advantages that come with incorporating sustainability into its practices? </p><p>At Xylo Sweden, we firmly believe that sustainability is not only a moral obligattion but also a strategic business imperative. Companies that embrace sustainability are better equipped to meet the challenges of the future, build stronger relationships with their stakeholders, and create value for their shareholders.</p>'
     url: "/services/"
     btn_label: "Our Services"
     btn_class: "btn--warning"

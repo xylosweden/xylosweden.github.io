@@ -3,11 +3,10 @@ id: 7857
 title: "Wondering if Now is the Time to Start that LCA for Your Star Product?"
 date: '2024-08-30T16:23:34+01:00'
 author: 'Paula Picardo'
-layout: home
+excerpt: Business Value of Life Cycle Assessment (LCA)
 permalink: /wondering-if-nows-the-time-to-start-that-lca-for-your-star-product/
-image: /assets/images/Screenshot-2024-08-30-at-17.24.31.png
 categories:
-    - Uncategorized
+    - 'LCA and EPD'
 ---
 
 After a well-deserved summer vacation, we’re back! And this time, we’re here with a three-part analysis that dives into the business value of sustainability services and how they can fuel your company’s growth. Based on our experience, we’ll help you understand why sustainability is not just a responsibility—it’s a smart business decision.

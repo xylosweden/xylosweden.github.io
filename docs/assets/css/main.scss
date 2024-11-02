@@ -40,9 +40,12 @@ h2 {
 }
 
 p {
-  font-size: 0.75em;
+  font-size: 0.9em;
 }
 
+.archive__item-excerpt {
+  font-size: 0.9em;
+}
 .top-title{
   font-size : 2.2em;
   font-weight: 500;
@@ -75,16 +78,15 @@ p {
 .black-box{
   background-color: black;
   color: white;
-  min-height: 250px;
-  padding: 30px;
+  padding: 20px;
   @include breakpoint($small) {
-    min-height: 250px; 
-  }
-  @include breakpoint($medium) {
     min-height: 350px; 
   }
+  @include breakpoint($medium) {
+    min-height: 400px; 
+  }
   @include breakpoint($large) {
-  min-height: 400px; 
+   min-height: 450px; 
   }
 }
 .black-box:hover{
