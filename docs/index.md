@@ -29,7 +29,7 @@ feature_row3:
   - image_path: /assets/images/light-grow.jpg
     alt: "Light bulb with a plant showing grow"
     title: "<h4>Our mission</h4><h1>Driving Sustainable Growth</h1>"
-    excerpt: '<p>At Xylo Sweden, we are brought together by our shared passion for circularity. We believe that businesses can make a positive impact on the planet while also thriving financially, and we are committed to guiding them do so.</p><p>>We guide companies from different industries in their sustainability transition to improve profitability and competitiveness.</p><p>Through our innovative projects, we bridge the knowledge gap between different industries and maximise their sustainability contribution.</p>'
+    excerpt: '<p>At Xylo Sweden, we are brought together by our shared passion for circularity. We believe that businesses can make a positive impact on the planet while also thriving financially, and we are committed to guiding them do so.</p><p>We guide companies from different industries in their sustainability transition to improve profitability and competitiveness.</p><p>Through our innovative projects, we bridge the knowledge gap between different industries and maximise their sustainability contribution.</p>'
     url: "/contact-us/"
     btn_label: "Learn more"
     btn_class: "btn--warning btn--large"
