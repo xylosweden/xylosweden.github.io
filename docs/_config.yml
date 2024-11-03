@@ -64,6 +64,8 @@ footer:
       url: /blog/
     - label: "Contact us"
       url: /contact-us/
+    - label: "Privacy"
+      url: /privacy/
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/company/xylo-sweden"

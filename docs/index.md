@@ -23,7 +23,7 @@ feature_row2:
     excerpt: '<p>Is your company experiencing the advantages that come with incorporating sustainability into its practices? </p><p>At Xylo Sweden, we firmly believe that sustainability is not only a moral obligattion but also a strategic business imperative. Companies that embrace sustainability are better equipped to meet the challenges of the future, build stronger relationships with their stakeholders, and create value for their shareholders.</p>'
     url: "/services/"
     btn_label: "Our Services"
-    btn_class: "btn--warning"
+    btn_class: "btn--warning btn--large"
 
 feature_row3:
   - image_path: /assets/images/light-grow.jpg
@@ -32,7 +32,7 @@ feature_row3:
     excerpt: '<p>At Xylo Sweden, we are brought together by our shared passion for circularity. We believe that businesses can make a positive impact on the planet while also thriving financially, and we are committed to guiding them do so.</p><p>>We guide companies from different industries in their sustainability transition to improve profitability and competitiveness.</p><p>Through our innovative projects, we bridge the knowledge gap between different industries and maximise their sustainability contribution.</p>'
     url: "/contact-us/"
     btn_label: "Learn more"
-    btn_class: "btn--warning"
+    btn_class: "btn--warning btn--large"
 ---
 
 #### Our Promise
