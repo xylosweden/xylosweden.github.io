@@ -5,6 +5,8 @@ main:
     url: /services/
   - title: "About"
     url: /about/
+  - title: "References"
+    url: /references/
   - title: "Our blog"
     url: /blog/
   - title: "Contact us"

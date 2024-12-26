@@ -13,7 +13,7 @@ $right-sidebar-width-wide: 200px !default;
 
 $link-color: #fe9178 !default !default;
 $link-color-hover: #000 !default;
-$link-color-visited: #fe9178 !default;
+$link-color-visited: mix(#000, $link-color, 40%) !default;
 
 $global-font-family: 'Inter', sans-serif !default;
 $header-font-family: 'Inter', sans-serif !default;
@@ -36,6 +36,7 @@ h4 {
 .archive__item-title h2 {
   font-size : 1em;
 }
+
 
 h2 {
   font-weight: 500;
@@ -84,7 +85,6 @@ p {
     height: 400px; 
   }
 }
-
 
 .black-box-1{
   background-color: black;
@@ -213,4 +213,9 @@ p {
     position: absolute;
     inset: 0;
   }
+}
+
+.references {
+  height: 50px;
+
 }

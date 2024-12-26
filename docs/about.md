@@ -41,6 +41,8 @@ We know the future can be very bright and we are firm believers of Dennis GaborÂ
 
 Letâ€™s invent a more sustainable future together!
 
+[See some of our references](/references){: .btn .btn--warning}
+
 #### what makes us different
 {: .text-center}
 ## The codes we live by

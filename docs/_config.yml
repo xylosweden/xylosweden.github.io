@@ -60,6 +60,8 @@ footer:
       url: /services/
     - label: "About"
       url: /about/
+    - label: "References"
+      url: /references/
     - label: "Our blog"
       url: /blog/
     - label: "Contact us"
