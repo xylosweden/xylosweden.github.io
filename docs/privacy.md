@@ -1,10 +1,8 @@
 ---
 id: 789
 title: 'Privacy policy'
-date: '2022-12-15T11:25:04+01:00'
-author: 'Palomna Picardo'
 layout: home1
-guid: 'https://xylorevolution.com/?page_id=789'
+permalink: /privacy/
 ---
 
 # Privacy and cookie policy – Xylo Sweden
