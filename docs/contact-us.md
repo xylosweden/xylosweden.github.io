@@ -7,7 +7,7 @@ permalink: /contact-us/
 
 **In three simple steps:**
 
-1. Get your free sustainability consultation
+1. Get your sustainability consultation
 2. Allow us to create a customised plan
 3. Let´s execute that plan together!
 
